@@ -1,8 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 class Solution
-{
-public:
+{public:
     int longestOnes(vector<int> &nums, int k)
     {
         int maxSize = 0;
