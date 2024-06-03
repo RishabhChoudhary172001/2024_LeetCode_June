@@ -27,6 +27,5 @@ public:
     }
 };
 
-
 // here we use the two pointer concepts because it wants CONSECUTIVE max val where we use the
 // sliding window with at most 2 same type of fruits.
