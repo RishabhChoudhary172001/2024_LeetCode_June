@@ -28,4 +28,7 @@ public:
 };
 
 // here we use the two pointer concepts because it wants CONSECUTIVE max val where we use the
-// sliding window with at most 2 same type of fruits.
+// sliding window with at most 2 same type of fruits. here the variation is that we are using map also
+// 1 - sliding window
+// 2 - pointer
+// 3 - sliding window type 4 where there is need to track the window character using unordered_map
